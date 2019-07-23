@@ -1,0 +1,35 @@
+
+ 
+body, html {
+	background: #ECEDEF;
+	margin: 0;
+	padding: 0;
+}
+ 
+form{
+	width:360px;
+	padding:25px;
+	margin:auto;
+	border:5px solid #aaa;
+	border-radius:15px 15px;
+	}
+ 
+	input{
+	background:#888;
+	color:#fff;
+	font-size:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:19px;
+	padding-right:19px;
+	margin:6px;
+	}
+ 
+	h2{
+	text-align:center;
+	}
+ 
+	.sc{
+	background:#fff;
+	color:#000;
+	}
