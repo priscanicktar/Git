@@ -2,7 +2,7 @@
  
 body, html {
 	background: #ECEDEF;
-	margin: 0;
+	margin: 100;
 	padding: 0;
 }
  
@@ -32,4 +32,7 @@ form{
 	.sc{
 	background:#fff;
 	color:#000;
+	}
+	.thug{
+		margin: 200pc;
 	}
